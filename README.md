@@ -16,6 +16,7 @@ Thank you, Berikai!
 
 - Get [Berikai's Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
 - Use it to apply the `.json` file to `bitwig.jar`
+- Don't forget to delete `~/.BitwigStudio/cache/previews/` folder, or your in-Grid prewievs will be of standart/previous theme
 - Also try to tinker with in-Bitwig look settings!
 
 ## Demo
@@ -26,3 +27,4 @@ Thank you, Berikai!
 ![356814422-738c5a6f-2e2b-4f4a-9b78-d4706439ec9f](https://github.com/user-attachments/assets/96af7a5a-f825-4545-93b5-f55b91930177)
 ![356814489-926a5ecb-01bc-44bd-b329-d27d0e5cf7aa](https://github.com/user-attachments/assets/c916a05e-21a3-4d68-9e34-10a3c0586aa4)
 ![356814601-78a0cc35-16c3-4d9c-861f-57ffc0bd2b8e](https://github.com/user-attachments/assets/2348f5fb-e25a-42e8-9fd4-37cbc656a97e)
+![yutsdxdfghjkn](https://github.com/user-attachments/assets/3ccc364b-0bf4-4ac6-a8ef-520eca322aa8)
