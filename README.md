@@ -5,8 +5,16 @@ Custom theme for Bitwig. *So Retro!*
 Main color looks like [Solarized](https://github.com/altercation/solarized) so in means of versatility accents and some additional colors were taken from there directly.
 Also the theme reminds me of Promethium theme for Serum.
 
-Though I altered colors greatly, I tried to keep Bitwig's native color-codes (excluding automations?...).
+Though I altered colors greatly, I tried to keep Bitwig's vanilla color-codes (excluding automations?...).
 I also kept light Arranger and Editor versus dark Grid.
+
+I want MothWig to feel both futuristic and giving retro vibes => *spaseship blue* against *sandy brown*.
+
+Piano-roll has to be, I feel, classy, cosy to write quite detailed scores for a long time without eye strain, while modular synthesis and fx's have to be dark and audacious so you *divide* your production stages.
+
+My number one goal is to make it both usable and stylish, and inspiringly different too and I hope you like it!
+
+---
 
 Thank you, Berikai!
 
@@ -27,4 +35,4 @@ Thank you, Berikai!
 ![356814422-738c5a6f-2e2b-4f4a-9b78-d4706439ec9f](https://github.com/user-attachments/assets/96af7a5a-f825-4545-93b5-f55b91930177)
 ![356814489-926a5ecb-01bc-44bd-b329-d27d0e5cf7aa](https://github.com/user-attachments/assets/c916a05e-21a3-4d68-9e34-10a3c0586aa4)
 ![356814601-78a0cc35-16c3-4d9c-861f-57ffc0bd2b8e](https://github.com/user-attachments/assets/2348f5fb-e25a-42e8-9fd4-37cbc656a97e)
-![yutsdxdfghjkn](https://github.com/user-attachments/assets/3ccc364b-0bf4-4ac6-a8ef-520eca322aa8)
+![cache cleared](https://github.com/user-attachments/assets/3ccc364b-0bf4-4ac6-a8ef-520eca322aa8)
