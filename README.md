@@ -30,9 +30,8 @@ Thank you, Berikai!
 ## Demo
 
 ![356814146-f399fe9e-8096-4d8c-9d86-98a0f562ed40](https://github.com/user-attachments/assets/7c016499-d103-4fb5-a786-31b878e13596)
-![356814158-55fe7537-64ac-40f0-bd45-9bb8747503de](https://github.com/user-attachments/assets/fac8fdfb-2899-4492-a9ce-71f917a95cf5)
-![356814165-5578d084-ba71-41bc-b529-6d8b1588a34a](https://github.com/user-attachments/assets/aebe850e-b34d-45dd-ab09-b6291c0e67d1)
+![Screenshot from 2024-08-11 13-23-38](https://github.com/user-attachments/assets/ad1906b9-57a5-4f0d-aacf-35dda11c65a4)
+![image](https://github.com/user-attachments/assets/0a255f10-19d7-4b1b-9004-65540f6994c8)
 ![356814422-738c5a6f-2e2b-4f4a-9b78-d4706439ec9f](https://github.com/user-attachments/assets/96af7a5a-f825-4545-93b5-f55b91930177)
 ![356814489-926a5ecb-01bc-44bd-b329-d27d0e5cf7aa](https://github.com/user-attachments/assets/c916a05e-21a3-4d68-9e34-10a3c0586aa4)
-![356814601-78a0cc35-16c3-4d9c-861f-57ffc0bd2b8e](https://github.com/user-attachments/assets/2348f5fb-e25a-42e8-9fd4-37cbc656a97e)
-![cache cleared](https://github.com/user-attachments/assets/3ccc364b-0bf4-4ac6-a8ef-520eca322aa8)
+![Screenshot from 2024-08-11 13-17-22](https://github.com/user-attachments/assets/773826c8-37e6-4a54-be04-7afaa6f6725c)
