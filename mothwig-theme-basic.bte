@@ -4,7 +4,7 @@ Gradient: true
 Transparent: #00000000
 Image Source: #00000000
 Inherited: #a9a9fe
-White: #ffffff
+White: #fbfbf6
 Black: #000000
 Same as background: #00000000
 Accent: #00000000
@@ -201,9 +201,9 @@ Activation Green: #00ff85
 Activation Yellow: #fff68f
 Activation Red: #f63a39
 Dark offset for automation/channel bar: #00000033
-Light offset for automation/channel bar: #ffffff4c
+Light offset for automation/channel bar: #fbfbf64c
 White Selection: #fbfbf6ff
-White Selection (standby): #ffffffa6
+White Selection (standby): #fbfbf6a6
 User input text: #ff8200
 Compressed Audio Port in modular environment: #fb8441
 Audio connection in modular environment: #dc322f
@@ -255,17 +255,17 @@ Send (post) value color: #b58900
 Send (pre) value color: #268bd2
 Missing file icon: #ff0000
 Missing file text: #595959
-External file icon: #d6b200
-External file text: #d6b200
+External file icon: #b58900
+External file text: #b58900
 Found file icon: #00000000
-Found file text: #d6b200
+Found file text: #b58900
 Invoke Action Background: #d8d8d8
 Invoke Action Category: #000000
 Invoke Action Text: #000000
 Notification Button Background: #0000007f
 Color bar button fill color: #0000003c
-Unselected Filled Automation Type Icon: #969696
-Unselected Empty Automation Type Icon: #969696
+Unselected Filled Automation Type Icon: #889ba4
+Unselected Empty Automation Type Icon: #889ba4
 Loop Region Fill: #4c4c4c
 Loop Region Stroke: #999999
 Loop Region Selected Fill: #4c4c4c
