@@ -32,6 +32,10 @@ Thank you, Berikai!
 Of the Basic branch.
 Solarized version still exists and may get rid of Mothwig colours in the future, but the Basic is prioritized.
 
+![image](https://github.com/user-attachments/assets/bd398ff0-7ae5-4f3a-9ee1-0b885c6b33c3)
+
+![image](https://github.com/user-attachments/assets/97bacfa1-79bb-46ca-8bc2-61505bac89de)
+
 ![image](https://github.com/user-attachments/assets/90c94854-34ee-4b01-a3ab-a574e0c96ff8)
 
 ![image](https://github.com/user-attachments/assets/eca8f144-d17c-497e-8240-aebe7613b07f)
