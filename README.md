@@ -20,7 +20,7 @@ Thank you, Berikai!
 
 ---
 
-## Instructions
+## Instructions for Bitwig Studio 5 (ver. 6 is available, use .bte)
 
 - Get [Berikai's Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
 - Use it to apply the `.json` file to `bitwig.jar`
