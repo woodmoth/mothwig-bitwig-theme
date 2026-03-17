@@ -59,7 +59,7 @@ Menu separator: #4c6875
 Field background: #d1d1d1
 Number field bar background: #fb8441
 Scrollbar: #889ba4
-Scrollbar background: #2e2e2e00
+Scrollbar background: #050e13
 Icon Frame: #00000000
 Modern Scrollbar Handle (active): #f6f6edff
 Modern Scrollbar Handle (inactive): #fb8441ff
@@ -140,8 +140,8 @@ Popup overlay background color: #171717b4
 Record button color: #f63a39
 Record text color: #ff1010
 Monitoring buttons color: #b58900
-Onset Color Min: #ffba00
-Onset Color Max: #ffff80
+Onset Color Min: #fbfbf6
+Onset Color Max: #f63a39
 Beat Marker Color: #fb8441
 Analyzed Beat Color: #268bd2
 Dark tree background (selected): #4c6875ff
@@ -173,7 +173,7 @@ Panel Purple: #6c71c4
 Launcher Mapping Indication: #806f51
 Audio Event Boundary: #050e137b
 Audio Event Background: #2e2e2e
-Audio Event Waveform: #a5a5a5
+Audio Event Waveform: #c1baa7
 Popup Notification Background: #6a828db4
 Bitwig Red: #f63a39
 Bitwig Mint: #00ff85
