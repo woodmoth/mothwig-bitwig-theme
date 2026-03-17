@@ -8,6 +8,8 @@ Also the theme reminds me of Promethium theme for Serum.
 Though I altered colors greatly, I tried to keep Bitwig's vanilla color-codes (excluding automations?...).
 I also kept light Arranger and Editor versus dark Grid. The contrasts are even greater in Mothwig than in vanilla.
 
+(they burried the concept with 6. though… Isn't THAT'S FL Studio!)
+
 I want MothWig to feel both futuristic and giving retro vibes => *spaseship blue* against *sandy brown*.
 
 Piano-roll has to be, I feel, classy, cosy to write quite detailed scores for a long time without eye strain, while modular synthesis and fx's have to be dark and audacious so you *divide* your production stages.
